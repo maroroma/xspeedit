@@ -1,11 +1,16 @@
 # xspeedit
 
+## jdk
+Le projet est en jdk8
+
 ## Build
 
 Via maven, avec :
 ```
 mvn clean install
 ```
+
+
 ## Execution
 
 Une fois le fichier jar généré, il peut être lancé avec la commande suivante :
